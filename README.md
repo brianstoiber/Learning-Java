@@ -1,2 +1,2 @@
-# Learn-Java-Udemy-
+Learning Java
 Udemy course work
